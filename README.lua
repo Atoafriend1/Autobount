@@ -96,3 +96,5 @@ getgenv().config = {
         }
     }
 };
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Atoafriend1/Autobount/refs/heads/main/README.lua'))()
